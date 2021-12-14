@@ -1,8 +1,7 @@
-# Remax Experimental Environment On Wechat
+# My Remax Issue Demos
+本仓库专门写demo，便于我在remax仓库issue时复现问题。  
+不同的demo会位于不同的分支。
 
-- It's cleaner than [the official example](https://github.com/remaxjs/examples). 
-- It's cleaner than `npx create-remax-app my-app`
-- It's used for wechat quick experiment.
 
 ## Getting Start
 
