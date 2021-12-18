@@ -1,0 +1,6 @@
+module.exports = {
+    navigationStyle: "custom",
+    usingComponents: {
+        "mp-navigation-bar": "weui-miniprogram/navigation-bar/navigation-bar",
+    },
+};
